@@ -1,3 +1,4 @@
+
 # Hướng dẫn điều khiển động cơ servo với pico:
 - Để sử dụng servo trên raspberry pi pico thì bạn cần tạo một file thư viện để điều khiển servo.
 - Bạn hãy lưu file này với tên "servo.py" trong bộ nhớ của raspberry pi pico.
@@ -20,3 +21,6 @@
 - In this program, the pico pin used to connect to the servo is pin 2
 
 - [abc](googleeb7f521246edb704.html)
+<head>
+  <meta name="google-site-verification" content="bg6OmePvf78FBOSnBCvpfZ-Ic2MgpxoFf-uglRrDpg8" />
+</head>
