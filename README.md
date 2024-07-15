@@ -8,6 +8,14 @@
 - Please save this file with the name "servo.py" in the memory of your raspberry pi pico.
 - Then use the file "controlServo180.py" to control the servo motor.
 - If you want the program to run automatically when starting pico, rename the file "controlServo180.py" to "main.py".
+# Kết nối pico với servo:
+- Chú ý nhớ sửa đổi chân điều khiển servo trong chương trình đúng với chân thực tế đã kết nối với servo.
+- Trong chương trình này chân pico được dùng để kết nối với servo là chân 2
 <picture>
-  <img src="https://github.com/HuuPhuoc2411/FFT-Project/blob/main/image/gio1.jpg" alt="..." width="250" />
+  <img src="RaspberryPI-Pico-servo.png" alt="..." width="550" />
 </picture>
+
+# Connect pico to servo:
+- Remember to modify the servo control pin in the program to match the actual pin connected to the servo.
+- In this program, the pico pin used to connect to the servo is pin 2
+
