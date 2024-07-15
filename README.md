@@ -20,7 +20,7 @@
 - Remember to modify the servo control pin in the program to match the actual pin connected to the servo.
 - In this program, the pico pin used to connect to the servo is pin 2
 
-- [abc](googleeb7f521246edb704.html)
+
 <head>
 <meta name="google-site-verification" content="bg6OmePvf78FBOSnBCvpfZ-Ic2MgpxoFf-uglRrDpg8" />
 </head>
