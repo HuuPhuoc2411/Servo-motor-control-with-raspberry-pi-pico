@@ -8,3 +8,6 @@
 - Please save this file with the name "servo.py" in the memory of your raspberry pi pico.
 - Then use the file "controlServo180.py" to control the servo motor.
 - If you want the program to run automatically when starting pico, rename the file "controlServo180.py" to "main.py".
+<picture>
+  <img src="https://github.com/HuuPhuoc2411/FFT-Project/blob/main/image/gio1.jpg" alt="..." width="250" />
+</picture>
