@@ -22,5 +22,5 @@
 
 - [abc](googleeb7f521246edb704.html)
 <head>
-  <meta name="google-site-verification" content="bg6OmePvf78FBOSnBCvpfZ-Ic2MgpxoFf-uglRrDpg8" />
+<meta name="google-site-verification" content="bg6OmePvf78FBOSnBCvpfZ-Ic2MgpxoFf-uglRrDpg8" />
 </head>
